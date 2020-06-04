@@ -3,7 +3,7 @@ export const Dishes =
         {
         id: 0,
         name:'Uthappizza',
-        image: '/assets/images/uthappizza.PNG',
+        image: '../../public/assets/images/uthappizza.png',
         category: 'mains',
         label:'Hot',
         price:'4.99',
